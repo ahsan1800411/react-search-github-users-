@@ -1,1 +1,1 @@
-Hit npm i and npm start to preview the app
+Hit npm i and then npm start to preview the app
